@@ -1,0 +1,4 @@
+model,feature_space,parameters,clusters,noise_pct,silhouette
+K-Means,6 standardised ratings,K=2,2,0.0,0.2708163568457951
+Hierarchical,6 standardised ratings,"average, K=2",2,0.0,0.24712536622953613
+DBSCAN,6 standardised ratings,"eps=0.877, min_samples=12",5,8.792294393677452,-0.0818787347582547

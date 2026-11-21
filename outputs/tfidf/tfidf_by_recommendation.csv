@@ -1,0 +1,25 @@
+term,yes_minus_no,side
+told,-0.02172065777074448,higher when not recommended
+customer,-0.020550530302513935,higher when not recommended
+ticket,-0.01900305613559784,higher when not recommended
+turkish,-0.016644214576372794,higher when not recommended
+hours,-0.016378003664522935,higher when not recommended
+said,-0.015468666766324982,higher when not recommended
+worst,-0.015146566026863553,higher when not recommended
+luggage,-0.014196618901527371,higher when not recommended
+asked,-0.013254431356329237,higher when not recommended
+istanbul,-0.013172225923489154,higher when not recommended
+refund,-0.013036791480394043,higher when not recommended
+emirates,-0.012092935088697524,higher when not recommended
+good,0.034488273480390255,higher when recommended
+excellent,0.02687488944311811,higher when recommended
+great,0.02631482082286587,higher when recommended
+comfortable,0.023443495715566774,higher when recommended
+crew,0.022223994639230353,higher when recommended
+cabin,0.02119686908770868,higher when recommended
+friendly,0.019902786352253964,higher when recommended
+qatar,0.019773045092899247,higher when recommended
+food,0.01777879633141768,higher when recommended
+airways,0.01703694686661049,higher when recommended
+doha,0.01687658334635974,higher when recommended
+best,0.016825459977700612,higher when recommended

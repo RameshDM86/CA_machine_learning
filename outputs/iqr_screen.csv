@@ -1,0 +1,8 @@
+feature,lower,upper,iqr_flags
+Seat Comfort,-2.5,9.5,0
+Staff Service,-2.5,9.5,0
+Food & Beverages,-2.5,9.5,0
+Inflight Entertainment,0.0,8.0,0
+Value For Money,-5.0,11.0,0
+Overall Rating,-8.5,19.5,0
+Review Length,-515.625,1979.375,427
