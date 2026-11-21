@@ -1,0 +1,15 @@
+Clean reviews used: 8098 (started from 8100).
+Verified flags corrected: 3. Duplicate reviews removed: 2.
+Inflight Entertainment zeros imputed with median 4: 1.
+IQR flags on rating columns: 0.
+Share of overall ratings in {1, 2, 9, 10}: 63.8%.
+Correlation of Value For Money and Overall Rating: 0.883.
+Two-component PCA of the ratings explains 55.3% of variance.
+Mixed-feature PCA kept 13 components (91.5% variance).
+K-Means: K=2, silhouette=0.2708, inertia=34573.6.
+Hierarchical: average linkage, K=2, silhouette=0.2471.
+Cophenetic correlations: ward=0.551, complete=0.550, average=0.618.
+DBSCAN: eps=0.877, min_samples=12, clusters=5, noise=8.8%, silhouette=-0.0819.
+TF-IDF vocabulary size: 3000.
+Toy cosine doc1-doc2=0.372, doc1-doc3=0.794.
+Mean cosine in a 300-review block: all=0.046, both recommended=0.055, both not recommended=0.047, mixed=0.040.

@@ -1,0 +1,5 @@
+feature_space,best_k,silhouette
+6 ratings (main),2,0.2708163568457951
+"5 ratings, no overall",2,0.22439584625614586
+4 service scores only,8,0.261035728326297
+Mixed features + PCA 90%,2,0.20850229177560878
